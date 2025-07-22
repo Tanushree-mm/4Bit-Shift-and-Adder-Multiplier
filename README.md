@@ -1,6 +1,8 @@
 # 4Bit-Shift-and-Adder-Multiplier
 
 **OBJECTIVE**
+
+
 Write Verilog code for a 4-bit shift-and-add multiplier.
 
 Verify functionality using a testbench.
@@ -14,6 +16,7 @@ Maximum delay
 Number of cells
 
 Power and area requirement
+
 
 **DESCRIPTION**
 
@@ -29,3 +32,4 @@ Binary multipliers are used for multiplication of 2 binary numbers and are used 
 **SYNTHESIS RTL SCHEMATIC**
 
 
+<img width="545" height="376" alt="Image" src="https://github.com/user-attachments/assets/33eb589a-1b89-4864-9355-17b99081caf6" />
