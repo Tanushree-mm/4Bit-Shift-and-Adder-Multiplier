@@ -22,4 +22,10 @@ Binary multipliers are used for multiplication of 2 binary numbers and are used 
 
 **OUTPUT WAVEFORM**
 
+
+<img width="529" height="106" alt="Image" src="https://github.com/user-attachments/assets/b0a11871-7f45-4e3c-a002-d2dcae36b5ab" />
+
+
 **SYNTHESIS RTL SCHEMATIC**
+
+
